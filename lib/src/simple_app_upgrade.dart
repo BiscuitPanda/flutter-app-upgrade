@@ -201,10 +201,10 @@ class _SimpleAppUpgradeWidget extends State<SimpleAppUpgradeWidget> {
   _buildAction() {
     return Column(
       children: <Widget>[
-        Divider(
-          height: 1,
-          color: Colors.grey,
-        ),
+        // Divider(
+        //   height: 1,
+        //   color: Colors.grey,
+        // ),
         Row(
           children: <Widget>[
             widget.force
