@@ -128,6 +128,7 @@ class AppUpgrade {
             },
             child: Container(
                 margin: EdgeInsets.only(left: 350, right: 350),
+                color: Color(0xff202020),
                 child: Dialog(
                     shape: RoundedRectangleBorder(
                         borderRadius:
